@@ -54,4 +54,4 @@ When these errors occur, a usage message is displayed to guide the user.
 
 ---
 
-*Authored by 0xGuigui*
+*Authored by mflr0*

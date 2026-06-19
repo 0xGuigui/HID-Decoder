@@ -3,7 +3,7 @@
 Program: HID Decoder
 Description: Decodes HID keycodes from a file into readable text.
 Usage: python hid_decoder.py <data_file.txt>
-Author: 0xGuigui
+Author: mflr0
 Date: 2024-10-24
 """
 
@@ -14,7 +14,7 @@ def splash_screen():
     ╔══════════════════════════════════════════════╗
     ║                                              ║
     ║             HID Decoder Tool                 ║
-    ║           Written by 0xGuigui                ║
+    ║           Written by mflr0                ║
     ║                                              ║
     ╚══════════════════════════════════════════════╝
     """
